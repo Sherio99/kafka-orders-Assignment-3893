@@ -341,5 +341,6 @@ Ideas if you want to improve the project further:
 
 ## 👤 Author
 
-- Sheranga Dias – _undergraduate / developer_  
+- Name: Dias B.R.S.T – _undergraduate / developer_
+- Reg. no.: EG/2020/3893  
 - GitHub: https://github.com/Sherio99/kafka-orders-Assignment-3893
